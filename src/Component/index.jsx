@@ -6,7 +6,7 @@ class Components extends React.Component {
     render(){
         return (
             <div>
-                <ClassComponents nama= "Jeffrey Pasaribu" />
+                <ClassComponents nama= "Jeffrey Jeverson Pasaribu" />
             </div>
         )
     }
